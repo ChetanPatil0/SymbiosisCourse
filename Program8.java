@@ -1,4 +1,4 @@
-//
+//Take Infinite Digit from user and stop program execution when input digit is negative find min and max from all input
 import java.util.Scanner;
 class Program8{
     public static void main(String args[])

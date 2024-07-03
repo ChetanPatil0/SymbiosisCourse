@@ -1,4 +1,4 @@
-//A Four digit nu ber ABCD is called if ( A + B) = (C + D)
+//A Four digit number ABCD is called Lucky if ( A + B) = (C + D)
 import java.util.Scanner;
 class Program7{
     public static void main(String args[])
