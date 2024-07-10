@@ -9,8 +9,8 @@ class Program16{
         
       for(int i=0;i<array.length;i++)
       {
-       int Maximum = array[i] > Max ? Max =array[i] : Max;
-       int Minimum = array[i] < Min ? Min =array[i] : Min;
+         Max = array[i] > Max ? array[i] : Max;
+         Min = array[i] < Min ? array[i] : Min;
 
       }
       System.out.println("MAX : " + Max);
