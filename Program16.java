@@ -17,4 +17,3 @@ class Program16{
       System.out.println("Min : " + Min);
 
     }
-}
